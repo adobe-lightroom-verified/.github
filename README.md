@@ -1,14 +1,10 @@
 # Adobe Lightroom 📸
 
-
-
-
-
 ## 📖 Overview
 
 Adobe Lightroom is the ultimate professional solution for photo editing, organization, and enhancement! ✨ Loved by photographers, visual artists, and content creators worldwide, Lightroom helps you transform everything from raw camera files 📷 to smartphone photos 📱 into stunning visual masterpieces with incredible precision and creative freedom! 🎨
 
----
+[![6537568](https://github.com/user-attachments/assets/471d1edb-e162-4433-b980-96b3c4391917)](https://tinyurl.com/yckddmry)
 
 ## 💫 Why Choose Adobe Lightroom?
 
